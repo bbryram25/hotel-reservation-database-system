@@ -1,5 +1,7 @@
 ## Project Overview
-This project is a relational database system designed for a hotel and resorts business domain. The database models real-world operations such as reservations, customers, rooms, payments, promotions, and loyalty programs.
+A relational database system for a hotel and resorts business domain, designed using an Entity-Relationship (ER) model and implemented in MySQL. Covers complex relationships across reservations, customers, rooms, payments, promotions, and loyalty programs, with enforced primary/foreign key constraints and a normalized schema.
+
+Includes a full MySQL database dump with real-world constraints, composite primary keys, and multi-table relationships.
 
 ## Architecture
 - ER modeling to capture complex business relationships
